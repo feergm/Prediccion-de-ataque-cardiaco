@@ -1,5 +1,5 @@
 # Prediccion-de-ataque-cardiaco
-Proyecto BEDU
+
 
 Un ataque cardíaco es una emergencia médica potencialmente mortal que requiere tratamiento inmediato.
 
